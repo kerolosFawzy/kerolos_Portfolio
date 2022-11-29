@@ -47,8 +47,8 @@ export default function Home() {
               {' '}
               Certified Mobile App Developer with total of{' '}
               <span className='text-teal-500'> 1 Year of experience </span>
-              in (Android native with Jave, Xamarin, Flutter and React Native )
-              I have{' '}
+              in Android native with Jave, Xamarin, Flutter and React Native I
+              have{' '}
               <a
                 href='https://confirm.udacity.com/GFQFQEP9'
                 target='_blank'
