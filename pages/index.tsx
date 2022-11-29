@@ -53,6 +53,7 @@ export default function Home() {
                 href='https://confirm.udacity.com/GFQFQEP9'
                 target='_blank'
                 className='text-teal-500'
+                rel='opener'
               >
                 Nanodgree Certification
               </a>{' '}
