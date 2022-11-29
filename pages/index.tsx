@@ -66,10 +66,7 @@ export default function Home() {
               programming.
             </p>
           </div>
-          <div
-            className='lg:flex gap-10 text-center'
-            style={{ 'justify-content': 'center' }}
-          >
+          <div className='lg:flex gap-10 text-center justify-center'>
             <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white'>
               <Image
                 className='mx-auto'
