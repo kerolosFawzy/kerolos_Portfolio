@@ -42,21 +42,21 @@ export default function Home() {
         </section>
         <section>
           <div>
-            <h3 className='text-3xl py-5 dark:text-white'>Who I'm</h3>
+            <h3 className='text-3xl py-5 dark:text-white'>Who I am</h3>
             <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-200'>
               {' '}
               Certified Mobile App Developer with total of{' '}
               <span className='text-teal-500'> 1 Year of experience </span>
               in Android native with Jave, Xamarin, Flutter and React Native I
               have{' '}
-              <a
-                href='https://confirm.udacity.com/GFQFQEP9'
-                target='_blank'
+              <span
                 className='text-teal-500'
-                rel='opener'
+                onClick={() =>
+                  window.open('https://confirm.udacity.com/GFQFQEP9', '_blank')
+                }
               >
                 Nanodgree Certification
-              </a>{' '}
+              </span>{' '}
               in Android native then I took Developer Certification in Xamarin
               from Xamarin university. now I learning and working with React
               Native.
