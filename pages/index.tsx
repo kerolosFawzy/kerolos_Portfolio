@@ -74,9 +74,7 @@ export default function Home() {
                 height={100}
                 alt='mobile'
               />
-              <h3 className='text-lg font-medium pt-8 pb-2  '>
-                Mobile Service
-              </h3>
+              <h3 className='text-lg font-medium pt-8 pb-2'>Mobile Service</h3>
               <p className='py-2'>
                 Creating elegant mobile apps suited for your needs.
               </p>
