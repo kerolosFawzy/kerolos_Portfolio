@@ -20,7 +20,7 @@ function Navbar({ darkMode, setDarkMode }: NavbarProps) {
           <a
             className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 ml-8 border-none rounded-md'
             target='_blank'
-            href='https://drive.google.com/file/d/1is2a9VfD42UzBHXtivZu-xcuuYN2NI9K/view?usp=sharing'
+            href='https://drive.google.com/file/d/13f_aBDn5xUs_8BRmU2aoHq9tCWWPQ63R/view?usp=sharing'
             rel='noreferrer'
           >
             {' '}
