@@ -34,3 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+/.tools/
+/.npm-cache/
+/*.tar.gz
+/.sites-checkout/
